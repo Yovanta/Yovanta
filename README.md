@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Yovanta Anjelina</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
+<br>
+<h3 align="left">Github Stats:</h3>
 
-- 🌱 I’m currently learning **React JS**
+<p><img src="https://github-readme-stats.vercel.app/api/?username=Yovanta&show_icons=true&title_color=FA8B00&icon_color=FA8B00&text_color=FDFDFD&bg_color=151515&locale=en&hide_border=true"
+    alt="Yovanta"/></p>
+<p><img  src="https://github-readme-streak-stats.herokuapp.com?user=Yovanta&theme=dark&hide_border=true" alt="Yovanta" /></p>  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
