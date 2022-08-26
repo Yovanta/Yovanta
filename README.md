@@ -3,9 +3,10 @@
 <br>
 <h3 align="left">Github Stats:</h3>
 
-<p><img src="https://github-readme-stats.vercel.app/api/?username=Yovanta&show_icons=true&title_color=FA8B00&icon_color=FA8B00&text_color=FDFDFD&bg_color=151515&locale=en&hide_border=true"
-    alt="Yovanta"/></p>
-<p><img  src="https://github-readme-streak-stats.herokuapp.com?user=Yovanta&theme=dark&hide_border=true" alt="Yovanta" /></p>  
+<div display="flex">
+<img src="https://github-readme-stats.vercel.app/api/?username=Yovanta&show_icons=true&title_color=FA8B00&icon_color=FA8B00&text_color=FDFDFD&bg_color=151515&locale=en&hide_border=true" alt="Yovanta"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Yovanta&theme=dark&hide_border=true" alt="Yovanta" />  
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
